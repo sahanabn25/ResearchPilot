@@ -231,14 +231,4 @@ These capabilities will be developed incrementally and should not be considered 
 - Treat AI-generated summaries and research gaps as suggestions, not verified conclusions.
 - Base research claims on accessible source material and provide citations wherever possible.
 
-## Author
 
-**Sahana B. N.**
-
-B.E. Computer Science and Engineering
-
-GitHub: [@sahanabn25](https://github.com/sahanabn25)
-
-## License
-
-A license has not yet been specified. Add a `LICENSE` file if you intend to publish the project under an open-source license.
