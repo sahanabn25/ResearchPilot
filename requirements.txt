@@ -1,0 +1,14 @@
+streamlit
+requests
+python-dotenv
+# Only needed if LLM_PROVIDER=gemini (the default provider, Groq, uses plain HTTP via requests).
+google-genai
+# Optional semantic search (free, open source). If it fails to install or load,
+# ResearchPilot automatically falls back to the built-in BM25 store.
+chromadb
+# Report export (free, open source)
+python-docx
+reportlab
+# Option 2: reading uploaded PDFs (both MIT-licensed). pdfplumber is optional and only improves table extraction.
+pypdf
+pdfplumber

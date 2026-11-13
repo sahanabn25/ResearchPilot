@@ -1,0 +1,13 @@
+{
+  "_note": "FICTIONAL sample answers for testing the pipeline only. They describe an imaginary project; replace with your own.",
+  "q_title": "Hybrid CNN-LSTM with attention for 24-hour regional weather forecasting",
+  "q_problem": "Improve short-term (24 hour) temperature forecasting accuracy for a regional grid.",
+  "q_methodology": "We trained a CNN-LSTM hybrid with an attention layer on gridded reanalysis data and evaluated it on a held-out test set from the final two years, comparing against a persistence baseline.",
+  "q_techniques": "Convolutional neural network, LSTM, attention mechanism",
+  "q_datasets": "ERA5 reanalysis data, 2010 to 2020",
+  "q_metrics": "RMSE of 1.1 for our model versus 1.4 for the persistence baseline; training time 3 hours on one GPU.",
+  "q_results": "Our model reached an RMSE of 1.1 compared with 1.4 for the persistence baseline on the test set.",
+  "q_advantages": "Lower error than persistence and fast inference.",
+  "q_limitations": "We only tested on European data and ran each experiment once.",
+  "q_difference": "Combines spatial convolution with temporal attention in one lightweight model."
+}
