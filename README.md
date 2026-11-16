@@ -4,7 +4,7 @@
 
 ResearchPilot helps a student or researcher answer: *what has been done on my topic, what is still missing, and where does my work (or this paper) fit?* It finds papers, extracts what they did, identifies gaps, compares your project or an uploaded paper with the literature, and writes an evidence-labelled report (PDF, Word, Markdown).
 
-![Architecture](docs/architecture.png)
+![Architecture](architecture.png)
 
 ## Two ways to use it
 
